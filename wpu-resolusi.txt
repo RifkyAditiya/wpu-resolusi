@@ -1,0 +1,5 @@
+project yang akan dibuat kedepannya
+-Membuat Portofolio
+-Membuat Website market dengan kemampuan sendiri
+-Membuat kalkulator sederhana
+-Membuat sistem chatingan

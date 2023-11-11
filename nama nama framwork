@@ -1,10 +1,18 @@
 Daftar Framwork
 *JavaScript
  ^ReactJs
+ ^VueJs
  ^AngularJs
 *PHP
  ^Laravel
+ ^Zend
+ ^CodeIgniter
 *Python
+ ^Djago
  ^Pyramid
+ ^FastApi
+*Sql
 *Java
+ ^Wicket
  ^Blade
+ ^struts

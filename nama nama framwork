@@ -1,6 +1,10 @@
 Daftar Framwork
 *JavaScript
+ ^ReactJs
+ ^AngularJs
 *PHP
+ ^Laravel
 *Python
-*Sql
+ ^Pyramid
 *Java
+ ^Blade
